@@ -28,7 +28,7 @@ public class Arr1 {
         JOptionPane.showMessageDialog(null, s);
 
     
-
+        int [] tal={1,4,5,7,8,9,0};
 
     }
 
